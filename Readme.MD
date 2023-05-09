@@ -1,7 +1,9 @@
 ## Inspiration
 The inspiration for this game is Flappy Bird
 ## Play
-[Play Here](https://faraz-ghani.itch.io/cubefly)
+[GitHub Pages](https://faraz-ghani.github.io/CubeFly)
+Or
+[Itch.io](https://faraz-ghani.itch.io/cubefly)
 ## What it does
 You have to avoid pipes by Flapping your birds and stay alive
 ## How we built it
